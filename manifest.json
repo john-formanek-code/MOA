@@ -1,0 +1,7 @@
+{
+  "name": "NERF LongStrike Konfigurátor",
+  "short_name": "LongStrike",
+  "description": "Jednoduchá PWA – konfigurátor NERF LongStrike",
+  "start_url": "/index.html",
+  "display": "standalone"
+}
